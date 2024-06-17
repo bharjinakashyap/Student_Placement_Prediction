@@ -28,22 +28,3 @@ User redirected to the result page after submitting form.
 ## Website Link:
 
 https://placement-prediction-18gm.onrender.com/
-
-
-## Usage:
-Steps:
-1. Clone Project
-```
-git clone https://github.com/akshaykoganur/placement_prediction.git
-```
-2. Installing dependancies
-```
-pip install -r requirements.txt
-```
-3. Run
-```
-python app.py
-```
-## Contributors
-- <a href="https://github.com/akshaykoganur">Akshay Koganur</a>
-- <a href="https://github.com/Avi8010">Avinash Maharnavar</a>
